@@ -1,5 +1,3 @@
-# Microprocessor Laboratory Projects
-
 # Microprocessor Lab Series
 
 This project contains solutions for a series of microprocessor labs using the 8086/8088 processor, STM32 microcontroller, and ARM Cortex-M4 architecture. The goal of these labs is to provide hands-on experience with assembly language programming, memory management, interfacing with external devices, and using simulators for debugging.
@@ -8,7 +6,7 @@ This project contains solutions for a series of microprocessor labs using the 80
 
 <table style="width:100%">
  <tr>
-    <th><a href="path/to/Lab1">Lab 1</a></th>
+    <th><a href="https://github.com/negarhonarvar/Microprocessor-Laboratory/blob/main/LAB1">">Lab 1</a></th>
     <th>Assembly program design for 8086/8088: Writing, debugging, and executing an assembly program to calculate the difference between the squares of two numbers, implementing insertion sort, and handling system interrupts.</th>
   </tr>
    <tr>
