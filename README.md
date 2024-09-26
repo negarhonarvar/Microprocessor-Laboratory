@@ -1,6 +1,6 @@
 # Microprocessor Lab Series
 
-This project contains solutions for a series of microprocessor labs using the 8086/8088 processor, STM32 microcontroller, and ARM Cortex-M4 architecture. The goal of these labs is to provide hands-on experience with assembly language programming, memory management, interfacing with external devices, and using simulators for debugging.
+This Repository contains solutions for a series of microprocessor labs using the 8086/8088 processor, STM32 microcontroller, and ARM Cortex-M4 architecture. The goal of these labs is to provide hands-on experience with assembly language programming, memory management, interfacing with external devices, and using simulators for debugging.
 
 ### Table of Contents
 
